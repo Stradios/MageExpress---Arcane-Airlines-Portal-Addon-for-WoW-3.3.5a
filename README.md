@@ -35,6 +35,12 @@
 
 ---
 
+## ✅ Example
+
+![](https://raw.githubusercontent.com/Stradios/MageExpress---Arcane-Airlines-Portal-Addon-for-WoW-3.3.5a/refs/heads/main/MageExpress.png)
+
+---
+
 ## ✅ Example RP Messages
 
 > `[Arcane Airlines] Now boarding: direct portal to STORMWIND! Keep your gear tight, your gnomes closer, and step inside the rune responsibly.`
