@@ -17,7 +17,7 @@
 
 ## 🏗️ Installation
 
-1. Download the latest release: [MageExpress_FactionAware.zip](https://github.com/YourUserName/MageExpress/releases)
+1. Download the latest release: [MageExpress [Arcane Airlines] v1.7.0](https://github.com/Stradios/MageExpress---Arcane-Airlines-Portal-Addon-for-WoW-3.3.5a/releases/download/MageExpress-Arcane-Airlines-v1.7.0/MageExpress-.Arcane.Airlines.v1.7.0.zip)
 2. Extract the folder into:
    ```
    World of Warcraft 3.3.5a/Interface/AddOns/
@@ -29,7 +29,7 @@
 
 ## 🧪 Usage
 
-- Use `/magex` to toggle the UI.
+- Use `/magex` to toggle the UI. Or make a macro for faster use.
 - Or click the **MageExpress minimap icon** to open/close the portal menu.
 - Click a button to cast a portal with a matching RP message.
 
