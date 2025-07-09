@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: MageExpress - Faction Aware Portals
+## Notes: Shows mage portal buttons depending on faction (Alliance/Horde/Neutral)
+## Author: Stradios
+## Version: 1.7
+
+MageExpress.xml
+MageExpress.lua
