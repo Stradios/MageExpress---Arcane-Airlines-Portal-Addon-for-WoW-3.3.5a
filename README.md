@@ -75,10 +75,10 @@
 
 ## 💬 Feedback & Issues
 
-Submit bug reports or suggestions via [GitHub Issues](https://github.com/YourUserName/MageExpress/issues) or contact me on Discord: `Stradios`
+Submit bug reports or suggestions via [GitHub Issues](https://github.com/Stradios/MageExpress---Arcane-Airlines-Portal-Addon-for-WoW-3.3.5a/issues) or contact me on Discord: `Stradios`
 
 ---
 
 ## 📜 License
 
-This project is open source under the [MIT License](LICENSE).
+This project is open source under the [MIT License](https://github.com/Stradios/MageExpress---Arcane-Airlines-Portal-Addon-for-WoW-3.3.5a/blob/main/LICENSE).
