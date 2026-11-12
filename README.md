@@ -1,4 +1,5 @@
 # MageExpress - [Arcane Airlines] Portal Addon for WoW 3.3.5a
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M8K423K344)
 
 🧙 **MageExpress** is a lightweight World of Warcraft 3.3.5a addon for mages that creates a clean UI to cast portals, complete with RP-style announcements. It dynamically shows Alliance or Horde portals depending on your character's faction and includes neutral portals to Dalaran and Shattrath.
 
